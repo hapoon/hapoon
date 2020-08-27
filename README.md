@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+![stats](https://github-readme-stats.vercel.app/api?username=hapoon&show_icons=true&theme=tokyonight)
+
+![top-langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hapoon&layout=compact)
 <!--
 **hapoon/hapoon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
