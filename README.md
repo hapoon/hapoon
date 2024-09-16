@@ -1,4 +1,10 @@
-### Hi there 👋
+# Hi there 👋
+
+## My Skills
+
+[![My Skills](https://skillicons.dev/icons?i=aws,azure,bash,c,cpp,cs,css,dart,docker,dynamodb,elasticsearch,flutter,gcp,git,github,githubactions,gmail,go,grafana,html,java,js,kotlin,ktor,kubernetes,linkedin,linux,mongodb,mysql,nginx,nodejs,notion,php,postman,prometheus,redis,rust,swift,unity,vim,vscode,wasm)](https://skillicons.dev)
+
+## GitHub Stats
 
 ![stats](https://github-readme-stats.vercel.app/api?username=hapoon&show_icons=true&theme=tokyonight)
 
